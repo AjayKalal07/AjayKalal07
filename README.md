@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to gain insig
 **About Me**
 -  📚 Constantly learning and exploring my data analytic skills.
 -  🌱 I've self taught myself to get transitioned into Data Analytics and start a new journey 🛣️.
-- 📫 Here's my [Linkedin](linkedin.com/in/ajay-kalal-266673310)
+- 📫 Here's my [Linkedin](https://www.linkedin.com/in/ajay-kalal-266673310/)
 
 ## Certification 
 -Prudue University Post Graduate Program in Business Analysis by Simplilearn
